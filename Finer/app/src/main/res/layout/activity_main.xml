@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="80pt"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:src="@drawable/logo_finer_citi"
+        />
+
+    <com.app.adprogressbarlib.AdCircleProgress
+        android:id="@+id/progressSplash"
+        android:layout_width="80pt"
+        android:layout_height="80pt"
+        app:adpgb_background_color="@android:color/transparent"
+        android:backgroundTintMode="add"
+        app:adpgb_finished_color="@android:color/white"
+        app:adpgb_gradient_color_one="@color/colorAccent"
+        app:adpgb_gradient_color_two="@color/colorNaranja"
+        app:adpgb_unfinished_color="@android:color/transparent"
+        custom:adpgb_finished_stroke_width="5dp"
+        app:adpgb_progress="0"
+        app:adpgb_text_size="12dp"
+        custom:adpgb_show_text="false"
+        custom:adpgb_unfinished_stroke_width="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginBottom="80dp"
+        />
+
+
+
+</android.support.constraint.ConstraintLayout>

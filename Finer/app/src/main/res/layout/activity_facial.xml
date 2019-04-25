@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Facial">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        >
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/users_2"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:translationZ="2dp"
+            />
+
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/circle_title"
+            android:translationZ="1dp"
+            />
+
+        <ImageView
+            android:layout_width="330dp"
+            android:layout_height="50dp"
+            android:src="@drawable/box_title"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="20dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#414141"
+            android:text="Hola de nuevo"
+            android:textSize="22sp"
+            android:layout_marginTop="19dp"
+            android:layout_marginStart="85dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#212121"
+            android:fontFamily="sans-serif-medium"
+            android:layout_marginStart="232dp"
+            android:layout_marginTop="19dp"
+            android:text="Alfonso"
+            android:textSize="22sp"
+            />
+
+    </RelativeLayout>
+
+    <FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="350dp"
+        android:layout_height="500dp"
+        android:layout_marginTop="120dp"
+        android:layout_centerHorizontal="true"
+        >
+
+        <org.opencv.android.JavaCameraView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/color_blob_detection_activity_surface_view" />
+
+    </FrameLayout>
+
+    <Button
+        android:id="@+id/facialBtnIniciar"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="30dp"
+        android:text="Iniciar"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/gradient_button"
+        android:shadowDy="5"
+        />
+
+</RelativeLayout>

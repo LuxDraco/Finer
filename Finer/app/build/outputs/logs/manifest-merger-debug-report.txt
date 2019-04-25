@@ -1,0 +1,309 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha4] /Users/draco/.gradle/caches/transforms-2/files-2.1/0a46e0941965dcc4a0140fb1ec94f9ee/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.Adilhusen:circle-progress-ad-android-:1.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/662f8e5c63e2081c04466b526202fa16/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/74aea9042f7093c0d422afff955126e5/AndroidManifest.xml:17:1-22:12
+MERGED from [jp.wasabeef:glide-transformations:4.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/12d7789aa79020840efd91970b9e725d/AndroidManifest.xml:2:1-9:12
+MERGED from [jp.co.cyberagent.android:gpuimage:2.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/97c3e77613da683b71314354bbdd84b2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/3b1716669984a3f079d22e4c9ba91e3f/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/2fc31c85914e8ee6e0358e5ff747b6a6/AndroidManifest.xml:17:1-39:12
+MERGED from [:openCVLibrary343] /Users/draco/AndroidStudioProjects/Finer/openCVLibrary343/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/7b2ed450ff3cdea396e64c89df1853ac/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/fc0cbf45b99ecc59854de9bac144b8e3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/f6ba251bf5236f9cdff170f8b027b947/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/aa2de5043e62deef30314d356a3b0f2f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/3b85725b2de2a21c07a55b2b43e269ce/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/665bc2e8d5da60761ae8cb7130ef3fdc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/c210adcacfee9034a14ab2843959af03/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/663961b22ff0289abf72ce7e2d7dc848/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/144ba65fca8e13a9477a0f454c94f9bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/01b8e9197b04fc8d46713d7df5e3ea8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/7bb76f9395ce58cf46ca12da61e05c94/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/8a4b525a54d97971e284a47722d1dbf7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/27b5c971202639faf1ffdadc5417a2ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/1f3acc496ca4d8988d76dc5253c37041/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/a1c58dee9cbcedde667cf0eb0d4fc4e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/534a5716e24b9c424b7edef3673159e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/b0bf3e88d238e6834c874c7f967d5703/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/15514ad390423be59e39d4fb66d7d377/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/e7bc0360cffb5f4548e737461e53f9d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/a283b65027fbeaa494ca76d211230b16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/a72cdbb844b46215299e3e380fbb66fd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/b69222a4a1d41e644fb4a96e76b081de/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/7eacf5f57d3153c838d8c4b894b30f41/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/354ce4ebafd5f659ca49a02eff8da487/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/bd0afcf5483ab9eeb4ffc03d1efcfdd3/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/9a1bed230b5062aad7292a7246816b28/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/196673c57fb65249de090b2e90506079/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/d90a6c9702cf5e2a4fc38bd28b2fc86c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/d94d92d0a09930561546ce27fc578047/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/9d677269c5d24d8cd367848f5b0a45bc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/a42f01fa830c591e76013f26e3646b03/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/743e9719cd28fe40f746afd4d90e27ea/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/7e5807ac0c84459a6568c62b3ec234e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/fb2be22587bc080619073e3429367944/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:4:5-32
+		INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:6:5-64
+	android:name
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:8:5-84
+	android:required
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:8:58-82
+	android:name
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:9:5-94
+	android:required
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:9:68-92
+	android:name
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:9:19-67
+uses-feature#android.hardware.camera.front
+ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:10:5-90
+	android:required
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:10:64-88
+	android:name
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:10:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:11:5-100
+	android:required
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:11:74-98
+	android:name
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:11:19-73
+application
+ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:13:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha4] /Users/draco/.gradle/caches/transforms-2/files-2.1/0a46e0941965dcc4a0140fb1ec94f9ee/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha4] /Users/draco/.gradle/caches/transforms-2/files-2.1/0a46e0941965dcc4a0140fb1ec94f9ee/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/3b1716669984a3f079d22e4c9ba91e3f/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/3b1716669984a3f079d22e4c9ba91e3f/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/2fc31c85914e8ee6e0358e5ff747b6a6/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/2fc31c85914e8ee6e0358e5ff747b6a6/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/f6ba251bf5236f9cdff170f8b027b947/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/f6ba251bf5236f9cdff170f8b027b947/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/aa2de5043e62deef30314d356a3b0f2f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/aa2de5043e62deef30314d356a3b0f2f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/3b85725b2de2a21c07a55b2b43e269ce/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/3b85725b2de2a21c07a55b2b43e269ce/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/665bc2e8d5da60761ae8cb7130ef3fdc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/665bc2e8d5da60761ae8cb7130ef3fdc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/a72cdbb844b46215299e3e380fbb66fd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/a72cdbb844b46215299e3e380fbb66fd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/b69222a4a1d41e644fb4a96e76b081de/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/b69222a4a1d41e644fb4a96e76b081de/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/7eacf5f57d3153c838d8c4b894b30f41/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/7eacf5f57d3153c838d8c4b894b30f41/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/bd0afcf5483ab9eeb4ffc03d1efcfdd3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/bd0afcf5483ab9eeb4ffc03d1efcfdd3/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/b69222a4a1d41e644fb4a96e76b081de/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:16:9-41
+	tools:ignore
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:20:9-48
+	android:roundIcon
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:19:9-40
+activity#com.smartti.finer.Facial
+ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:22:9-53
+	android:name
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:22:19-41
+activity#com.smartti.finer.Datos
+ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:23:9-43
+	android:name
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:23:19-40
+activity#com.smartti.finer.Login
+ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:24:9-43
+	android:name
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:24:19-40
+activity#com.smartti.finer.Registrar
+ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:25:9-47
+	android:name
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:25:19-44
+activity#com.smartti.finer.GetStarted
+ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:26:9-48
+	android:name
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:26:19-45
+activity#com.smartti.finer.MainActivity
+ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:27:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha4] /Users/draco/.gradle/caches/transforms-2/files-2.1/0a46e0941965dcc4a0140fb1ec94f9ee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha4] /Users/draco/.gradle/caches/transforms-2/files-2.1/0a46e0941965dcc4a0140fb1ec94f9ee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.Adilhusen:circle-progress-ad-android-:1.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/662f8e5c63e2081c04466b526202fa16/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Adilhusen:circle-progress-ad-android-:1.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/662f8e5c63e2081c04466b526202fa16/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/74aea9042f7093c0d422afff955126e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/74aea9042f7093c0d422afff955126e5/AndroidManifest.xml:20:5-44
+MERGED from [jp.wasabeef:glide-transformations:4.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/12d7789aa79020840efd91970b9e725d/AndroidManifest.xml:5:5-7:41
+MERGED from [jp.wasabeef:glide-transformations:4.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/12d7789aa79020840efd91970b9e725d/AndroidManifest.xml:5:5-7:41
+MERGED from [jp.co.cyberagent.android:gpuimage:2.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/97c3e77613da683b71314354bbdd84b2/AndroidManifest.xml:7:5-9:41
+MERGED from [jp.co.cyberagent.android:gpuimage:2.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/97c3e77613da683b71314354bbdd84b2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/3b1716669984a3f079d22e4c9ba91e3f/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/3b1716669984a3f079d22e4c9ba91e3f/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/2fc31c85914e8ee6e0358e5ff747b6a6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/2fc31c85914e8ee6e0358e5ff747b6a6/AndroidManifest.xml:20:5-44
+MERGED from [:openCVLibrary343] /Users/draco/AndroidStudioProjects/Finer/openCVLibrary343/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary343] /Users/draco/AndroidStudioProjects/Finer/openCVLibrary343/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/7b2ed450ff3cdea396e64c89df1853ac/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/7b2ed450ff3cdea396e64c89df1853ac/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/fc0cbf45b99ecc59854de9bac144b8e3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/fc0cbf45b99ecc59854de9bac144b8e3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/f6ba251bf5236f9cdff170f8b027b947/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/f6ba251bf5236f9cdff170f8b027b947/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/aa2de5043e62deef30314d356a3b0f2f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/aa2de5043e62deef30314d356a3b0f2f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/3b85725b2de2a21c07a55b2b43e269ce/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/3b85725b2de2a21c07a55b2b43e269ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/665bc2e8d5da60761ae8cb7130ef3fdc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/665bc2e8d5da60761ae8cb7130ef3fdc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/c210adcacfee9034a14ab2843959af03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/c210adcacfee9034a14ab2843959af03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/663961b22ff0289abf72ce7e2d7dc848/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/663961b22ff0289abf72ce7e2d7dc848/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/144ba65fca8e13a9477a0f454c94f9bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/144ba65fca8e13a9477a0f454c94f9bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/01b8e9197b04fc8d46713d7df5e3ea8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/01b8e9197b04fc8d46713d7df5e3ea8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/7bb76f9395ce58cf46ca12da61e05c94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/7bb76f9395ce58cf46ca12da61e05c94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/8a4b525a54d97971e284a47722d1dbf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/8a4b525a54d97971e284a47722d1dbf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/27b5c971202639faf1ffdadc5417a2ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/27b5c971202639faf1ffdadc5417a2ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/1f3acc496ca4d8988d76dc5253c37041/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/1f3acc496ca4d8988d76dc5253c37041/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/a1c58dee9cbcedde667cf0eb0d4fc4e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/a1c58dee9cbcedde667cf0eb0d4fc4e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/534a5716e24b9c424b7edef3673159e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/534a5716e24b9c424b7edef3673159e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/b0bf3e88d238e6834c874c7f967d5703/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/b0bf3e88d238e6834c874c7f967d5703/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/15514ad390423be59e39d4fb66d7d377/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/15514ad390423be59e39d4fb66d7d377/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/e7bc0360cffb5f4548e737461e53f9d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/e7bc0360cffb5f4548e737461e53f9d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/a283b65027fbeaa494ca76d211230b16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/a283b65027fbeaa494ca76d211230b16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/a72cdbb844b46215299e3e380fbb66fd/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/a72cdbb844b46215299e3e380fbb66fd/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/b69222a4a1d41e644fb4a96e76b081de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/b69222a4a1d41e644fb4a96e76b081de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/7eacf5f57d3153c838d8c4b894b30f41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/7eacf5f57d3153c838d8c4b894b30f41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/354ce4ebafd5f659ca49a02eff8da487/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/354ce4ebafd5f659ca49a02eff8da487/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/bd0afcf5483ab9eeb4ffc03d1efcfdd3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/bd0afcf5483ab9eeb4ffc03d1efcfdd3/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/9a1bed230b5062aad7292a7246816b28/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/9a1bed230b5062aad7292a7246816b28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/196673c57fb65249de090b2e90506079/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/196673c57fb65249de090b2e90506079/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/d90a6c9702cf5e2a4fc38bd28b2fc86c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/d90a6c9702cf5e2a4fc38bd28b2fc86c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/d94d92d0a09930561546ce27fc578047/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/d94d92d0a09930561546ce27fc578047/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/9d677269c5d24d8cd367848f5b0a45bc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/9d677269c5d24d8cd367848f5b0a45bc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/a42f01fa830c591e76013f26e3646b03/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/a42f01fa830c591e76013f26e3646b03/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/743e9719cd28fe40f746afd4d90e27ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/743e9719cd28fe40f746afd4d90e27ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/7e5807ac0c84459a6568c62b3ec234e6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/7e5807ac0c84459a6568c62b3ec234e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/fb2be22587bc080619073e3429367944/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/fb2be22587bc080619073e3429367944/AndroidManifest.xml:20:5-44
+INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/665bc2e8d5da60761ae8cb7130ef3fdc/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/draco/AndroidStudioProjects/Finer/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/2fc31c85914e8ee6e0358e5ff747b6a6/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/2fc31c85914e8ee6e0358e5ff747b6a6/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/2fc31c85914e8ee6e0358e5ff747b6a6/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/2fc31c85914e8ee6e0358e5ff747b6a6/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/2fc31c85914e8ee6e0358e5ff747b6a6/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/2fc31c85914e8ee6e0358e5ff747b6a6/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/2fc31c85914e8ee6e0358e5ff747b6a6/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/2fc31c85914e8ee6e0358e5ff747b6a6/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/2fc31c85914e8ee6e0358e5ff747b6a6/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/f6ba251bf5236f9cdff170f8b027b947/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/f6ba251bf5236f9cdff170f8b027b947/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/f6ba251bf5236f9cdff170f8b027b947/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/f6ba251bf5236f9cdff170f8b027b947/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/3b85725b2de2a21c07a55b2b43e269ce/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/3b85725b2de2a21c07a55b2b43e269ce/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/draco/.gradle/caches/transforms-2/files-2.1/3b85725b2de2a21c07a55b2b43e269ce/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/665bc2e8d5da60761ae8cb7130ef3fdc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/a72cdbb844b46215299e3e380fbb66fd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/a72cdbb844b46215299e3e380fbb66fd/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/665bc2e8d5da60761ae8cb7130ef3fdc/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/draco/.gradle/caches/transforms-2/files-2.1/665bc2e8d5da60761ae8cb7130ef3fdc/AndroidManifest.xml:27:13-51
